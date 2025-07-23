@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# ADK logs or cache (if any)
+*.log
+.cache/
